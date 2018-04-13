@@ -61,8 +61,8 @@ When the --proxy option is not used, the program honors the http_proxy and all_p
 Donations
 =========
 Donations for the work done in this fork are accepted at
-* XMR: `42QWoLF7pdwMcTXDviJvNkWEHJ4TXnMBh2Cx6HNkVAW57E48Zfw6wLwDUYFDYJAqY7PLJUTz9cHWB5C4wUA7UJPu5wPf4sZ`
-* BTC: `1WoLFumNUvjCgaCyjFzvFrbGfDddYrKNR`
+* ETN: `etnk9jLCmp6XX3EY9CjfJ55mJK2GMdYQGjcjWA7upYJHQyzLBKF6DJdBKuMoQ81SyYctKtAfrkFRvJSLBDLVfydr3M8fqxUFBE`
+* BTC: `13hHaTYPRf3AUwjX66LgBFma5U1waQq5QM`
 
 Credits
 =======
